@@ -1,0 +1,17 @@
+ADDS
+N1
+N2
+
+SUBS
+N1
+N2
+
+INCR
+N1
+N2
+DREG
+
+ADDS
+N1
+N2
+
